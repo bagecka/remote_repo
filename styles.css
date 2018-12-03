@@ -2,3 +2,10 @@ h1 {
     color: fuchsia;
     font-size: 14;
 }
+h1:hover {
+    font-size: 20;
+    color: purple;
+    }
+p {
+    color: darkblue;
+}
